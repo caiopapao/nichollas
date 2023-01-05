@@ -46,7 +46,7 @@ body{
 }
 
 .servicos__tranferencia-img{
-    background-image: url(transferencia.jpeg);
+    background-image: url(Transferencia.jpeg);
     grid-row: span 2;
     grid-column: 3;
     background-size: contain;
